@@ -1,3 +1,3 @@
 # AppiumTest
-云层AaronAPP自动化，学习appium
-课5.测试带源码的app，编写计数器程序
+网上乙醇的blog，http://www.cnblogs.com/nbkhic/p/3813792.html，第一个appium例子
+启动android原生的计算器程序为例，点击计数器程序
